@@ -1,7 +1,7 @@
 # VoiceContentAI
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Luc_AI_Insights?style=social)](https://twitter.com/Luc_AI_Insights)
-
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@luc-ai-insights)
 
 ## Installation
 
