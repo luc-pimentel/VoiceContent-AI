@@ -8,7 +8,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/luc-pimentel/VoiceContentAI.git
+git clone https://github.com/luc-pimentel/VoiceContent-AI.git
 ```
 
 2. Install the required dependencies:
