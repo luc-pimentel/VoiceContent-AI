@@ -3,6 +3,6 @@ openai
 langchain_anthropic
 anthropic
 audio-recorder-streamlit
-lngchain
+langchain
 python-decouple
 moviepy
