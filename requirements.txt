@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain_anthropic
+anthropic
+audio-recorder-streamlit
+lngchain
+python-decouple
+moviepy
